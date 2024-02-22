@@ -15,7 +15,7 @@ You can also connect with me on LinkedIn!
 
 
 
-⚡ Fun fact: My final year project was a cardiovascular disease prediction system using ML algorithms and techniques, igniting my passion for data-driven decision-making and its potential to transform healthcare.
+⚡ Fun fact: My final year project was a cardiovascular disease prediction system using ML algorithms and techniques, igniting my passion for data-driven decision-making and its potential to transform healthcare. Additionally, I have experience creating impactful data visualizations and dashboards using Tableau.
 
 <!---
 mr-daniyalkhan/mr-daniyalkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
