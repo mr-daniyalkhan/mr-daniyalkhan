@@ -1,5 +1,5 @@
 
-👋 Hi, I’m Muhammad Daniyal Khan
+👋 Hi, I’m Muhammad Daniyal Khan,
 I am a Software Engineer, passionate about exploring the realms of coding, Machine Learning, and making Data diven decision makng through Data Science.
 
 
