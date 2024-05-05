@@ -1,6 +1,6 @@
 
 👋 Hi, I’m Muhammad Daniyal Khan
-I am a Final Year Software Engineering student , passionate about exploring the realms of coding, Machine Learning, and making Data diven decision makng through Data Science.
+I am a Software Engineer, passionate about exploring the realms of coding, Machine Learning, and making Data diven decision makng through Data Science.
 
 
 
@@ -15,8 +15,7 @@ You can also connect with me on LinkedIn!
 
 
 
-⚡ Fun fact: My final year project was a cardiovascular disease prediction system using ML algorithms and techniques, igniting my passion for data-driven decision-making and its potential to transform healthcare. Additionally, I have experience creating impactful data visualizations and dashboards using Tableau.
-
+⚡ Fun fact: My final year project was a cardiovascular disease prediction system using ML algorithms and techniques, igniting my passion for data-driven decision-making and its potential to transform healthcare. 
 <!---
 mr-daniyalkhan/mr-daniyalkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
