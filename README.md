@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Daniyal Khan</h1>
-<h3 align="center">I am a Software Engineer, passionate about exploring the realms of coding, Machine Learning, and making Data driven decision making through Data Science.ntend developer from India</h3>
+<h3 align="center">I am a Software Engineer, passionate about exploring the realms of coding, Machine Learning, and making Data driven decision making through Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-daniyalkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mr-daniyalkhan" /> </p>
 
